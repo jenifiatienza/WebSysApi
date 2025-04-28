@@ -1,16 +1,16 @@
 {
     "id": 1,
-    "name": "John Doe",
-    "email": "sample@grc.com",
+    "name": "Jen Atienza",
+    "email": "hamezje.com",
     "phone": "+1-202-555-0173",
     "address": {
-        "street": "123 Main St",
-        "city": "Anytown",
-        "state": "CA",
-        "zip": "12345"
+        "street": "12th Ave.",
+        "city": "Caloocan City",
+        "state": "Ph",
+        "zip": "1400"
     },
     "company": {
-        "name": "Tech Solutions",
+        "name": "Tech Sonic",
         "position": "Software Engineer",
         "department": "Development"
     }
